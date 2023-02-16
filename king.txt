@@ -1,8 +1,15 @@
 <<<<<<< HEAD
 hello mastaruuuu
+<<<<<<< HEAD
 hello madam
 hello sar
 helo bro
+=======
+hell
+hellelele
+n vkjnvej
+kjfnkjernkjn
+>>>>>>> balaji
 =======
 Yamini is princess
 Balaji is good boy according to him.
