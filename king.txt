@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 hello mastaruuuu
+=======
+Yamini is princess
+Balaji is good boy according to him.
+Jam Looks Pretty.
+Nazar is april born guy.
+>>>>>>> d70c27d2ca98e44255c67c9849550dfeb4d17def
