@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 evarra veelantha
+=======
+ayya nduk ala
+nduko emo pichi pichi vunde
+>>>>>>> fb0dcba39fa3cd213dbc084955aa79fa45e4a340
